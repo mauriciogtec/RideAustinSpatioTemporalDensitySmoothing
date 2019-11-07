@@ -1,0 +1,29 @@
+\BOOKMARK [1][-]{section.1}{spatio-temporal variation in TNC driver earnings}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Introduction}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Ride-Sourcing Productivity Analysis: Background \046 Challenges}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Proposed Methodology}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Statistical Background \046 Related Work}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Outline of the Paper}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Methodology}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Spatio-temporal graphs}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Density estimation with a binary partition}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{The Graph-Fused Lasso \(GFL\)}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.4}{The GFL Behavior with Missing Data}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.5}{The Graph-fused Elastic Net \(GFEN\)}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.6}{Scalable Algorithm for the GFEN}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.7}{Choosing a Tree Splitting Scheme}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.8}{Hyper-parameter Tuning}{section.2}% 15
+\BOOKMARK [1][-]{section.3}{Simulations}{}% 16
+\BOOKMARK [2][-]{subsection.3.1}{Visualization of the GFEN}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.2}{Comparison Simulation Tasks}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.3}{Results}{section.3}% 19
+\BOOKMARK [1][-]{section.4}{Case study: Driver Productivity Analysis}{}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Ride-sourcing data}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.2}{Measuring productivity}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.3}{Construction of the Spatio-Temporal Graph}{section.4}% 23
+\BOOKMARK [2][-]{subsection.4.4}{Binary Tree Decomposition with Global Quantiles}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.5}{Hyper-parameter Tuning with Bayesian Optimization}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.6}{Results}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.6.1}{Overview of the inference results}{subsection.4.6}% 27
+\BOOKMARK [3][-]{subsubsection.4.6.2}{Investigating driver productivity}{subsection.4.6}% 28
+\BOOKMARK [1][-]{section.5}{Concluding remarks}{}% 29

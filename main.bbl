@@ -1,0 +1,415 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Allcroft \harvardand\ Glasbey}{2003}{allcroft-glasbey-2003}
+Allcroft, D.~J. \harvardand\ Glasbey, C.~A.  \harvardyearleft
+  2003\harvardyearright , `A latent gaussian markov random-field model for
+  spatiotemporal rainfall disaggregation', {\em Journal of the Royal
+  Statistical Society: Series C (Applied Statistics)} {\bf 52}(4),~487--498.
+
+\harvarditem{Ando}{2011}{ando2011predictive}
+Ando, T.  \harvardyearleft 2011\harvardyearright , `Predictive bayesian model
+  selection', {\em American Journal of Mathematical and Management Sciences}
+  {\bf 31}(1-2),~13--38.
+
+\harvarditem{Arias \harvardand\ Morel}{2018}{arias-morel-2018}
+Arias, P. \harvardand\ Morel, J.-M.  \harvardyearleft 2018\harvardyearright ,
+  `Video denoising via empirical bayesian estimation of space-time patches',
+  {\em Journal of Mathematical Imaging and Vision} {\bf 60}(1),~70--93.
+
+\harvarditem[Arlot et~al.]{Arlot, Celisse et~al.}{2010}{arlot2010survey}
+Arlot, S., Celisse, A. et~al.  \harvardyearleft 2010\harvardyearright , `A
+  survey of cross-validation procedures for model selection', {\em Statistics
+  surveys} {\bf 4},~40--79.
+
+\harvarditem{Barbero \harvardand\ Sra}{2018}{barbero-sra-2018}
+Barbero, A. \harvardand\ Sra, S.  \harvardyearleft 2018\harvardyearright ,
+  `Modular proximal optimization for multidimensional total-variation
+  regularization', {\em The Journal of Machine Learning Research} {\bf
+  19}(1),~2232--2313.
+
+\harvarditem{Bashtannyk \harvardand\ Hyndman}{2001}{bashtannyk-hyndman-2001}
+Bashtannyk, D.~M. \harvardand\ Hyndman, R.~J.  \harvardyearleft
+  2001\harvardyearright , `Bandwidth selection for kernal conditional density
+  estimation', {\em Computational Statistics and Data Analysis} {\bf
+  36}(3),~279--298.
+
+\harvarditem{Bentley}{1975}{bentley1975multidimensional}
+Bentley, J.~L.  \harvardyearleft 1975\harvardyearright , `Multidimensional
+  binary search trees used for associative searching', {\em Communications of
+  the ACM} {\bf 18}(9),~509--517.
+
+\harvarditem{{Besag}}{1974}{besag-1974}
+{Besag}, J.  \harvardyearleft 1974\harvardyearright , `Spatial interaction and
+  the statistical analysis of lattice systems', {\em Journal of the Royal
+  Statistical Society B} {\bf 24},~192--236.
+
+\harvarditem{Bian}{2018}{friction8}
+Bian, B.  \harvardyearleft 2018\harvardyearright , `Search frictions, network
+  effects and spatial competition- taxis versus uber', {\em Working paper,
+  Pennsylvania State University Department of Economics} .
+
+\harvarditem[Bimpikis et~al.]{Bimpikis, Candogan \harvardand\
+  Daniela}{2016}{spatial2}
+Bimpikis, K., Candogan, O. \harvardand\ Daniela, S.  \harvardyearleft
+  2016\harvardyearright , `Spatial pricing in ride-sharing networks', {\em
+  Working paper, Stanford Graduate School of Business} .
+
+\harvarditem[Boyd et~al.]{Boyd, Parikh, Chu, Peleato, Eckstein
+  et~al.}{2011}{boyd2011distributed}
+Boyd, S., Parikh, N., Chu, E., Peleato, B., Eckstein, J. et~al.
+  \harvardyearleft 2011\harvardyearright , `Distributed optimization and
+  statistical learning via the alternating direction method of multipliers',
+  {\em Foundations and Trends{\textregistered} in Machine learning} {\bf
+  3}(1),~1--122.
+
+\harvarditem{Brown}{2015}{brown2015building}
+Brown, R.~A.  \harvardyearleft 2015\harvardyearright , `Building a balanced kd
+  tree in o (kn log n) time', {\em Journal of Computer Graphics Techniques
+  (JCGT)} {\bf 4}(1),~50--68.
+
+\harvarditem{Buchholz}{2015}{spatial4}
+Buchholz, N.  \harvardyearleft 2015\harvardyearright , Spatial equilibrium,
+  search frictions and efficient regulation in the taxi industry, Technical
+  report, Technical report, University of Texas at Austin.
+
+\harvarditem{Campbell}{2017}{short}
+Campbell, H.  \harvardyearleft 2017\harvardyearright , `{Why can’t Uber
+  drivers see the passenger’s destination before accepting a trip?}'.
+\newline\harvardurl{https://maximumridesharingprofits.com/cant-uber-drivers-see-passengers-destination-accepting-trip/}
+
+\harvarditem[Castro et~al.]{Castro, Besbes \harvardand\ Lobel}{2018}{spatial15}
+Castro, F., Besbes, O. \harvardand\ Lobel, I.  \harvardyearleft
+  2018\harvardyearright , `Surge pricing and its spatial supply response', {\em
+  Columbia Business School Research Paper No. 18-25} .
+\newline\harvardurl{https://ssrn.com/abstract=3124571}
+
+\harvarditem{Chambolle \harvardand\ Darbon}{2009}{chambolle-darbon-2009}
+Chambolle, A. \harvardand\ Darbon, J.  \harvardyearleft 2009\harvardyearright ,
+  `On total variation minimization and surface evolution using parametric
+  maximum flows', {\em International journal of computer vision} {\bf
+  84}(3),~288.
+
+\harvarditem{Chen \harvardand\ Tang}{2007}{chen-tang-2007}
+Chen, J. \harvardand\ Tang, C.-K.  \harvardyearleft 2007\harvardyearright ,
+  Spatio-temporal markov random field for video denoising, {\em in} `2007 IEEE
+  Conference on Computer Vision and Pattern Recognition', IEEE, pp.~1--8.
+
+\harvarditem[Cook et~al.]{Cook, Diamond, Hall, List \harvardand\
+  Oyer}{2018}{gender}
+Cook, C., Diamond, R., Hall, J., List, J.~A. \harvardand\ Oyer, P.
+  \harvardyearleft 2018\harvardyearright , The gender earnings gap in the gig
+  economy: Evidence from over a million rideshare drivers, Technical report,
+  National Bureau of Economic Research.
+
+\harvarditem{Cradeur}{2019}{filter1}
+Cradeur, J.  \harvardyearleft 2019\harvardyearright , `{Big changes could be
+  coming to Uber’s destination filter}'.
+\newline\harvardurl{https://therideshareguy.com/changes-to-ubers-destination-filter/}
+
+\harvarditem{{Cressie}}{1993}{cressie-1993}
+{Cressie}, N.  \harvardyearleft 1993\harvardyearright , {\em Statistics for
+  Spatial Data}, J. Wiley.
+
+\harvarditem{Cressie \harvardand\ Huang}{1999}{cressie-huang-1999}
+Cressie, N. \harvardand\ Huang, H.-C.  \harvardyearleft 1999\harvardyearright ,
+  `Classes of nonseparable, spatio-temporal stationary covariance functions',
+  {\em Journal of the American Statistical Association} {\bf
+  94}(448),~1330--1339.
+
+\harvarditem[Cressie et~al.]{Cressie, Shi \harvardand\
+  Kang}{2010}{cressie-2010}
+Cressie, N., Shi, T. \harvardand\ Kang, E.~L.  \harvardyearleft
+  2010\harvardyearright , `Fixed rank filtering for spatio-temporal data', {\em
+  Journal of Computational and Graphical Statistics} {\bf 19}(3),~724--745.
+
+\harvarditem{data.world}{2017}{dataworld-2017}
+data.world  \harvardyearleft 2017\harvardyearright , `Rideaustin dataset',
+  https://data.world/ride-austin.
+\newblock Online; accessed 3 February 2019.
+
+\harvarditem[Finley et~al.]{Finley, Banerjee \harvardand\
+  Gelfand}{2012}{finley-2012}
+Finley, A.~O., Banerjee, S. \harvardand\ Gelfand, A.~E.  \harvardyearleft
+  2012\harvardyearright , `Bayesian dynamic modeling for large space-time
+  datasets using gaussian predictive processes', {\em Journal of geographical
+  systems} {\bf 14}(1),~29--47.
+
+\harvarditem{Fryzlewicz \harvardand\ Nason}{2002}{fryzlewicz-nason-2002}
+Fryzlewicz, P. \harvardand\ Nason, G.  \harvardyearleft 2002\harvardyearright ,
+  A wavelet-fisz algorithm for poisson intensity estimation, Technical report,
+  Department of Mathematics, University of Bristol.
+
+\harvarditem[Gelfand et~al.]{Gelfand, Kottas \harvardand\
+  MacEachern}{2005}{gelfand-2015}
+Gelfand, A.~E., Kottas, A. \harvardand\ MacEachern, S.~N.  \harvardyearleft
+  2005\harvardyearright , `Bayesian nonparametric spatial modeling with
+  dirichlet process mixing', {\em Journal of the American Statistical
+  Association} {\bf 100}(471),~1021--1035.
+\newline\harvardurl{https://doi.org/10.1198/016214504000002078}
+
+\harvarditem{Getreuer}{2012}{getreuer-2012}
+Getreuer, P.  \harvardyearleft 2012\harvardyearright , `Rudin-osher-fatemi
+  total variation denoising using split bregman', {\em Image Processing On
+  Line} {\bf 2},~74--95.
+
+\harvarditem{Hall \harvardand\ Krueger}{2016}{hall-etal-2016}
+Hall, J.~V. \harvardand\ Krueger, A.~B.  \harvardyearleft 2016\harvardyearright
+  , An analysis of the labor market for uber’s driver-partners in the united
+  states, Technical Report 22843, National Bureau of Economic Research.
+\newline\harvardurl{http://www.nber.org/papers/w22843}
+
+\harvarditem[He et~al.]{He, Wang, Lin \harvardand\ Tang}{2018}{spatial3}
+He, F., Wang, X., Lin, X. \harvardand\ Tang, X.  \harvardyearleft
+  2018\harvardyearright , `Pricing and penalty/compensation strategies of a
+  taxi-hailing platform', {\em Transportation Research Part C: Emerging
+  Technologies} {\bf 86},~263--279.
+
+\harvarditem{Hochbaum}{2001}{hochbaum-2001}
+Hochbaum, D.~S.  \harvardyearleft 2001\harvardyearright , `An efficient
+  algorithm for image segmentation, markov random fields and related problems',
+  {\em Journal of the ACM (JACM)} {\bf 48}(4),~686--701.
+
+\harvarditem{Jansen}{2006}{jansen-2006}
+Jansen, M.  \harvardyearleft 2006\harvardyearright , `Multiscale poisson data
+  smoothing', {\em Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)} {\bf 68}(1),~27--48.
+
+\harvarditem{Johnson}{2013}{johnson-2013}
+Johnson, N.~A.  \harvardyearleft 2013\harvardyearright , `A dynamic programming
+  algorithm for the fused lasso and l 0-segmentation', {\em Journal of
+  Computational and Graphical Statistics} {\bf 22}(2),~246--260.
+
+\harvarditem{Katzfuss \harvardand\ Cressie}{2011}{katzfuss-cressie-2011}
+Katzfuss, M. \harvardand\ Cressie, N.  \harvardyearleft 2011\harvardyearright ,
+  `Spatio-temporal smoothing and em estimation for massive remote-sensing data
+  sets', {\em Journal of Time Series Analysis} {\bf 32}(4),~430--446.
+
+\harvarditem{Katzfuss \harvardand\ Cressie}{2012}{katzfuss-cressie-2012}
+Katzfuss, M. \harvardand\ Cressie, N.  \harvardyearleft 2012\harvardyearright ,
+  `Bayesian hierarchical spatio-temporal smoothing for very large datasets',
+  {\em Environmetrics} {\bf 23}(1),~94--107.
+
+\harvarditem{Lavine et~al.}{1992}{lavine-1992}
+Lavine, M. et~al.  \harvardyearleft 1992\harvardyearright , `Some aspects of
+  polya tree distributions for statistical modelling', {\em The annals of
+  statistics} {\bf 20}(3),~1222--1235.
+
+\harvarditem{Lavine et~al.}{1994}{lavine-1994}
+Lavine, M. et~al.  \harvardyearleft 1994\harvardyearright , `More aspects of
+  polya tree distributions for statistical modelling', {\em The Annals of
+  Statistics} {\bf 22}(3),~1161--1176.
+
+\harvarditem[Li et~al.]{Li, Banerjee, Hanson \harvardand\
+  McBean}{2015}{li-2015}
+Li, P., Banerjee, S., Hanson, T.~A. \harvardand\ McBean, A.~M.
+  \harvardyearleft 2015\harvardyearright , `Bayesian models for detecting
+  difference boundaries in areal data', {\em Statistica Sinica} pp.~385--402.
+
+\harvarditem[{Li} et~al.]{{Li}, {Tavafoghi}, {Poolla} \harvardand\
+  {Varaiya}}{2019}{li-2019}
+{Li}, S., {Tavafoghi}, H., {Poolla}, K. \harvardand\ {Varaiya}, P.
+  \harvardyearleft 2019\harvardyearright , `{Regulating TNCs: Should Uber and
+  Lyft Set Their Own Rules?}', {\em arXiv e-prints} p.~arXiv:1902.01076.
+
+\harvarditem{Lyft}{2019}{lyft}
+Lyft  \harvardyearleft 2019\harvardyearright , `How to use destination mode'.
+\newline\harvardurl{https://help.lyft.com/hc/en-us/articles/115013081128-How-to-use-Destination-Mode}
+
+\harvarditem[Ma et~al.]{Ma, Fang \harvardand\ Parkes}{2018}{ma-2018}
+Ma, H., Fang, F. \harvardand\ Parkes, D.~C.  \harvardyearleft
+  2018\harvardyearright , `Spatio-temporal pricing for ridesharing platforms',
+  {\em arXiv preprint arXiv:1801.04015} .
+
+\harvarditem[Mauldin et~al.]{Mauldin, Sudderth, Williams
+  et~al.}{1992}{mauldin-1992}
+Mauldin, R.~D., Sudderth, W.~D., Williams, S. et~al.  \harvardyearleft
+  1992\harvardyearright , `Polya trees and random distributions', {\em The
+  Annals of Statistics} {\bf 20}(3),~1203--1221.
+
+\harvarditem{{Mishel}}{2018}{mishel-2018}
+{Mishel}, L.  \harvardyearleft 2018\harvardyearright , Uber drivers'
+  compensation, wages, and the scale of uber and the gig economy, Working Paper
+  145552, Economic Policy Institute.
+\newline\harvardurl{https://epi.org/145552}
+
+\harvarditem{{Nadeau}}{2017}{nadeau-2017}
+{Nadeau}, C.~A.  \harvardyearleft 2017\harvardyearright , Living wage
+  calculator: User's guide, update 2017, Technical report, Open Data Nation.
+\newblock Online; accessed 1 March 2019.
+\newline\harvardurl{http://livingwage.mit.edu/counties/48453}
+
+\harvarditem{Parisotto \harvardand\ Sch{\"o}nlieb}{2019}{parisotto-2019}
+Parisotto, S. \harvardand\ Sch{\"o}nlieb, C.-B.  \harvardyearleft
+  2019\harvardyearright , Total directional variation for video denoising, {\em
+  in} `International Conference on Scale Space and Variational Methods in
+  Computer Vision', Springer, pp.~522--534.
+
+\harvarditem{Perea}{2017}{filter2}
+Perea, C.  \harvardyearleft 2017\harvardyearright , `Uber drops destination
+  filters back to two trips per day'.
+\newline\harvardurl{https://therideshareguy.com/uber-drops-destination-filters-back-to-2-trips-per-day/}
+
+\harvarditem{Ramdas \harvardand\ Tibshirani}{2016}{ramdas-tibshirani-2016}
+Ramdas, A. \harvardand\ Tibshirani, R.~J.  \harvardyearleft
+  2016\harvardyearright , `Fast and flexible admm algorithms for trend
+  filtering', {\em Journal of Computational and Graphical Statistics} {\bf
+  25}(3),~839--858.
+\newline\harvardurl{https://doi.org/10.1080/10618600.2015.1054033}
+
+\harvarditem{Reich \harvardand\ Fuentes}{2007}{reich-fuentes-2007}
+Reich, B.~J. \harvardand\ Fuentes, M.  \harvardyearleft 2007\harvardyearright ,
+  `A multivariate semiparametric bayesian spatial modeling framework for
+  hurricane surface wind fields', {\em Ann. Appl. Stat.} {\bf 1}(1),~249--264.
+\newline\harvardurl{https://doi.org/10.1214/07-AOAS108}
+
+\harvarditem[Rodríguez et~al.]{Rodríguez, Dunson \harvardand\
+  Gelfand}{2010}{rodriguez-2010}
+Rodríguez, A., Dunson, D.~B. \harvardand\ Gelfand, A.~E.  \harvardyearleft
+  2010\harvardyearright , `Latent stick-breaking processes', {\em Journal of
+  the American Statistical Association} {\bf 105}(490),~647--659.
+\newline\harvardurl{https://doi.org/10.1198/jasa.2010.tm08241}
+
+\harvarditem{Romanyuk}{2017}{ignorance}
+Romanyuk, G.  \harvardyearleft 2017\harvardyearright , Ignorance is strength:
+  Improving the performance of matching markets by limiting information,
+  Technical report, Working Paper, Harvard Univeristy, Cambridge, MA.
+
+\harvarditem{Rue \harvardand\ Held}{2005}{rue-held-2005}
+Rue, H. \harvardand\ Held, L.  \harvardyearleft 2005\harvardyearright , {\em
+  Gaussian Markov random fields: theory and applications}, Chapman and
+  Hall/CRC.
+
+\harvarditem[Rushworth et~al.]{Rushworth, Lee \harvardand\
+  Sarran}{2017}{rushworth-2017}
+Rushworth, A., Lee, D. \harvardand\ Sarran, C.  \harvardyearleft
+  2017\harvardyearright , `An adaptive spatiotemporal smoothing model for
+  estimating trends and step changes in disease risk', {\em Journal of the
+  Royal Statistical Society: Series C (Applied Statistics)} {\bf
+  66}(1),~141--157.
+
+\harvarditem{Samuels}{2017}{samuels-2017}
+Samuels, A.  \harvardyearleft 2017\harvardyearright , `Uber, lyft returning to
+  austin on monday'.
+\newline\harvardurl{https://www.texastribune.org/2017/05/25/uber-lyft-returning-austin-monday/}
+
+\harvarditem[Shaheen et~al.]{Shaheen, Cohen \harvardand\
+  Zohdy}{2016}{shaheen-2016}
+Shaheen, S., Cohen, A. \harvardand\ Zohdy, I.  \harvardyearleft
+  2016\harvardyearright , Shared mobility: current practices and guiding
+  principles, Technical Report FHWA-HOP-16-022, U.S. Depatment of
+  Transportation.
+\newline\harvardurl{https://ops.fhwa.dot.gov/publications/fhwahop16022/index.htm}
+
+\harvarditem[{Shahriari} et~al.]{{Shahriari}, {Swersky}, {Wang}, {Adams}
+  \harvardand\ {de Freitas}}{2016}{shahriari-etal-2016}
+{Shahriari}, B., {Swersky}, K., {Wang}, Z., {Adams}, R.~P. \harvardand\ {de
+  Freitas}, N.  \harvardyearleft 2016\harvardyearright , `Taking the human out
+  of the loop: A review of bayesian optimization', {\em Proceedings of the
+  IEEE} {\bf 104}(1),~148--175.
+
+\harvarditem{Smith}{2019}{smithuber}
+Smith, C.  \harvardyearleft 2019\harvardyearright , `Amazing uber stats and
+  facts (2019)'.
+\newline\harvardurl{https://expandedramblings.com/index.php/uber-statistics/}
+
+\harvarditem[{Snoek} et~al.]{{Snoek}, {Larochelle} \harvardand\
+  {Adams}}{2012}{snoek-etal-2012}
+{Snoek}, J., {Larochelle}, H. \harvardand\ {Adams}, R.~P.  \harvardyearleft
+  2012\harvardyearright , `{Practical Bayesian Optimization of Machine Learning
+  Algorithms}', {\em arXiv e-prints} p.~arXiv:1206.2944.
+
+\harvarditem[Stroud et~al.]{Stroud, M{\"u}ller \harvardand\
+  Sans{\'o}}{2001}{stroud-2001}
+Stroud, J.~R., M{\"u}ller, P. \harvardand\ Sans{\'o}, B.  \harvardyearleft
+  2001\harvardyearright , `Dynamic models for spatiotemporal data', {\em
+  Journal of the Royal Statistical Society: Series B (Statistical Methodology)}
+  {\bf 63}(4),~673--689.
+
+\harvarditem[Tansey et~al.]{Tansey, Athey, Reinhart \harvardand\
+  Scott}{2017}{tansey-etal-2017}
+Tansey, W., Athey, A., Reinhart, A. \harvardand\ Scott, J.~G.  \harvardyearleft
+  2017\harvardyearright , `Multiscale spatial density smoothing: An application
+  to large-scale radiological survey and anomaly detection', {\em Journal of
+  the American Statistical Association} {\bf 112}(519),~1047--1063.
+\newline\harvardurl{https://doi.org/10.1080/01621459.2016.1276461}
+
+\harvarditem{Tansey \harvardand\ Scott}{2015}{tansey-scott-2015}
+Tansey, W. \harvardand\ Scott, J.~G.  \harvardyearleft 2015\harvardyearright ,
+  `A fast and flexible algorithm for the graph-fused lasso', {\em arXiv
+  preprint arXiv:1505.06475} .
+
+\harvarditem{Tibshirani \harvardand\ Taylor}{2011}{tibshirani-taylor-2011}
+Tibshirani, R.~J. \harvardand\ Taylor, J.  \harvardyearleft
+  2011\harvardyearright , `The solution path of the generalized lasso', {\em
+  Ann. Statist.} {\bf 39}(3),~1335--1371.
+\newline\harvardurl{https://doi.org/10.1214/11-AOS878}
+
+\harvarditem[Tibshirani et~al.]{Tibshirani, Saunders, Rosset, Zhu \harvardand\
+  Knight}{2005}{tibshirani-2015}
+Tibshirani, R., Saunders, M., Rosset, S., Zhu, J. \harvardand\ Knight, K.
+  \harvardyearleft 2005\harvardyearright , `Sparsity and smoothness via the
+  fused lasso', {\em Journal of the Royal Statistical Society: Series B
+  (Statistical Methodology)} {\bf 67}(1),~91--108.
+
+\harvarditem[Wang et~al.]{Wang, Sharpnack, Smola \harvardand\
+  Tibshirani}{2016}{wang-2016}
+Wang, Y.-X., Sharpnack, J., Smola, A.~J. \harvardand\ Tibshirani, R.~J.
+  \harvardyearleft 2016\harvardyearright , `Trend filtering on graphs', {\em
+  Journal of Machine Learning Research} {\bf 17}(105),~1--41.
+\newline\harvardurl{http://jmlr.org/papers/v17/15-147.html}
+
+\harvarditem[Welch et~al.]{Welch, Bishop et~al.}{1995}{welch-1995}
+Welch, G., Bishop, G. et~al.  \harvardyearleft 1995\harvardyearright , `An
+  introduction to the kalman filter'.
+
+\harvarditem{Willett \harvardand\ Nowak}{2007}{willett-nowak-2007}
+Willett, R.~M. \harvardand\ Nowak, R.~D.  \harvardyearleft
+  2007\harvardyearright , `Multiscale poisson intensity and density
+  estimation', {\em IEEE Transactions on Information Theory} {\bf
+  53}(9),~3171--3187.
+
+\harvarditem{Wohlberg}{2017}{wohlberg2017admm}
+Wohlberg, B.  \harvardyearleft 2017\harvardyearright , `Admm penalty parameter
+  selection by residual balancing', {\em arXiv preprint arXiv:1704.06209} .
+
+\harvarditem[Xu et~al.]{Xu, Liang \harvardand\ Genton}{2015}{xu-2015}
+Xu, G., Liang, F. \harvardand\ Genton, M.~G.  \harvardyearleft
+  2015\harvardyearright , `A bayesian spatio-temporal geostatistical model with
+  an auxiliary lattice for large datasets', {\em Statistica Sinica} pp.~61--79.
+
+\harvarditem[Yang et~al.]{Yang, Fung, Wong \harvardand\ Wong}{2010}{friction9}
+Yang, H., Fung, C., Wong, K. \harvardand\ Wong, S.~C.  \harvardyearleft
+  2010\harvardyearright , `Nonlinear pricing of taxi services', {\em
+  Transportation Research Part A: Policy and Practice} {\bf 44}(5),~337--348.
+
+\harvarditem[Yasuda et~al.]{Yasuda, Watanabe, Kataoka \harvardand\
+  Tanaka}{2018}{yasuda-2018}
+Yasuda, M., Watanabe, J., Kataoka, S. \harvardand\ Tanaka, K.  \harvardyearleft
+  2018\harvardyearright , `Linear-time algorithm in bayesian image denoising
+  based on gaussian markov random field', {\em IEICE TRANSACTIONS on
+  Information and Systems} {\bf 101}(6),~1629--1639.
+
+\harvarditem[Zha et~al.]{Zha, Yin \harvardand\ Xu}{2018}{spatial5}
+Zha, L., Yin, Y. \harvardand\ Xu, Z.  \harvardyearleft 2018\harvardyearright ,
+  `Geometric matching and spatial pricing in ride-sourcing markets', {\em
+  Transportation Research Part C: Emerging Technologies} {\bf 92},~58--75.
+
+\harvarditem{Zhao \harvardand\ Hanson}{2011}{zhao-hanson-2011}
+Zhao, L. \harvardand\ Hanson, T.~E.  \harvardyearleft 2011\harvardyearright ,
+  `Spatially dependent polya tree modeling for survival data', {\em Biometrics}
+  {\bf 67}(2),~391--403.
+
+\harvarditem{Zou \harvardand\ Hastie}{2005}{zou-2005}
+Zou, H. \harvardand\ Hastie, T.  \harvardyearleft 2005\harvardyearright ,
+  `Regularization and variable selection via the elastic net', {\em Journal of
+  the royal statistical society: series B (statistical methodology)} {\bf
+  67}(2),~301--320.
+
+\harvarditem[{Zuniga-Garcia} et~al.]{{Zuniga-Garcia}, {Tec}, {Scott},
+  {Ruiz-Juri} \harvardand\ {Machemehl}}{2019}{zuniga-etal-2019}
+{Zuniga-Garcia}, N., {Tec}, M., {Scott}, J.~G., {Ruiz-Juri}, N. \harvardand\
+  {Machemehl}, R.~B.  \harvardyearleft 2019\harvardyearright , `{Evaluation of
+  Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising
+  Approach}', {\em arXiv e-prints} p.~arXiv:1809.10329.
+
+\end{thebibliography}
